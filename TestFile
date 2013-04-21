@@ -1,0 +1,7 @@
+BREs provide a mechanism, known as backreferences, for saying “match whatever an
+earlier part of the regular expression matched.” There are two steps to using backref-
+erences. The first step is to enclose a subexpression in \( and \). There may be up to
+nine enclosed subexpressions within a single pattern, and they may be nested.
+
+kno[.]n
+

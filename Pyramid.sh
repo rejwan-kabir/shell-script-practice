@@ -1,5 +1,7 @@
 #! /bin/bash
 
+# Sample pyramid for fun :-)
+
 echo -n "Enter row : "
 read row
 

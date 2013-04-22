@@ -1,5 +1,7 @@
 #! /bin/bash
 
+# Take password without promtping to the console
+
 printf "Enter username : "
 read username
 printf "Enter password : "
